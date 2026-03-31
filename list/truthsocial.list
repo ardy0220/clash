@@ -1,2 +1,8 @@
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,trk.bonsa.net
+DOMAIN-SUFFIX,tmtgcorp.com
+DOMAIN-KEYWORD,truth
+DOMAIN-KEYWORD,tmtg
+
+# 防止资源加载失败
+DOMAIN-SUFFIX,cloudfront.net

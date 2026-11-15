@@ -3,3 +3,12 @@
 # IP-CIDR,192.0.2.1/32
 # IP-CIDR6,2001:db8::1/128
 # ?? no-resolve??????????????????? IP?
+DOMAIN,yh.maodu.xyz
+DOMAIN,cf.maodu.xyz
+DOMAIN,cfkk.maodu.xyz
+DOMAIN,2024.yingpanfu.top
+IP-CIDR,104.250.142.34/32,no-resolve
+DOMAIN,cfsw.maodu.xyz
+DOMAIN,cflt.maodu.xyz
+DOMAIN,cfdx.maodu.xyz
+DOMAIN,bapp.jackmy.xyz

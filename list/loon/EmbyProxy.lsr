@@ -1,4 +1,5 @@
-# Loon remote rules: EmbyProxy.lsr
+# Loon remote rules: EmbyProxy
+# Subscription policy: your Emby proxy policy
 DOMAIN,yh.maodu.xyz
 DOMAIN,cf.maodu.xyz
 DOMAIN,cfkk.maodu.xyz

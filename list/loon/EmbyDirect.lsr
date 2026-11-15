@@ -1,4 +1,5 @@
-# Loon remote rules: EmbyDirect.lsr
+# Loon remote rules: EmbyDirect
+# Subscription policy: DIRECT
 IP-CIDR,104.250.151.198/32,no-resolve
 DOMAIN,v6.jackmy.xyz
 DOMAIN,v6.maodu.xyz
